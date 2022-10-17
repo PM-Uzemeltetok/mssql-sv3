@@ -65,9 +65,11 @@ Az SQL szerver esetén a Download Media -t kell választani és ott ISO formátu
 
 ### CRUD műveletek
 * DDL (Data Definition Language)
-    - CREATE, ALTER, DROP, SHOW
+    - CREATE, ALTER, DROP
 * DML (Data Manipulation Language)
-    - SELECT, INSERT, UPDATE, DELETE
+    - INSERT, UPDATE, DELETE
+* DQL (Data Query Language)
+    - SELECT, SHOW
 
 ---  
 # Első adatbázisom 
